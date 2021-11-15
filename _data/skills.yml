@@ -1,36 +1,33 @@
-header: Say something about what you're good at
+header: Solutions are my specialty.
 
-subheader: Give some more context
+subheader: I like to work on cross-functional teams to find innovative solutions to other people's most technologically challenging problems.
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Communcation
+    description: Experience with translating business requirements into developer deliverables. Writes newsletter content to highlight team progress and success.
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Collaboration
+    description: Coordinating with business analysts, developers and quality assurance colleagues to deliver valuable results efficiently.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Adaptability
+    description: As industries and businesses are constantly changing I continue to enhance my technical skills and learn from my peers to encourage creative problem-solving.
 
 #If you have certifications, talk about them here
 certifications:
-  - name: Certification 1
+  - name: Udacity Data Analyst Nanodegree
     topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+      - Leveraging Python libraries such as Pandas, NumPy, Matplotlib and Seaborn for data analysis
+      - Practical statistics for real-world applications and models
+      - Data wrangling and analysis
 
-  - name: Certification 2
+  - name: AWS Certified Developer - Associate
     topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
+      - Developing, deploying and debugging cloud-based applications using AWS
+      - serverless application fluency
+      - Understanding of AWS services and writing compatible code
 
-  - name: Certification 3
+  - name: "Microsoft Certified: Azure Fundamentals"
     topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+      - Understanding of cloud concepts
+      - Familiarity with general security and network security best practices
+      - Navigating identity, governance, privacy and compliance features in Azure

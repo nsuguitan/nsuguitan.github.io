@@ -1,7 +1,7 @@
 ---
-title: Your Website
-author: Your Name Here
-description: "A quick website description"
+title: Nadia Suguitan
+author: Nadia Suguitan
+description: "Software Developer|Business Analyst|Nanoscale Engineer|Cloud Practitioner"
 layout: default
 permalink: /
 ---

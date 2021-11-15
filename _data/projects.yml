@@ -1,13 +1,12 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Udacity Data Analyst Final Project
+  description: Connect to Twitter API and wrangle, clean and analyze WeRateDogs account data.
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Fedex Day Project - Chesster
+  description: Using python, my team developed a working prototype of a chess engine and UI within 24 hours
 
-- name: Project 3
-  description: A few sentences describing your project.
-
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Platform Performance Dashboard
+  description: Used AWS Lambda and SQL server to source our team's performance metrics and visualize the data using AWS Quicksight 
+- name: Yield Improvement Roadmap
+  description: Consumed, cleaned, and categorized wafer breakage data to provide yield improvement initiative recommendations to management

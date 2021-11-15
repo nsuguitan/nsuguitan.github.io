@@ -1,13 +1,13 @@
 #LinkedIn
 #https://www.linkedin.com/in/{{LinkedInUsername}}/
-linkdin_username: /
+linkdin_username: "https://www.linkedin.com/in/nadiasuguitan/"
 
 #GitHub
 #https://github.com/{{GitHubUsername}}
-github_username: /
+github_username: "https://github.com/nsuguitan"
 
 #https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
-github_repo: /
+github_repo: "https://github.com/nsuguitan/nsuguitan.github.io.git"
 
 #The email you'd like people to contact you with.
-email: /
+email: "nadia.suguitan@gmail.com"
